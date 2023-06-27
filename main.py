@@ -42,9 +42,9 @@ def main():
     # ex9.vowel_counter(sentence)
     
     # #Ex10
-    # num1 = input('Enter number 1:')
-    # num2 = input('Enter number 2:')
-    # operator = input('Enter operation (+, *, /, -):')
+    # num1 = input('Enter number 1: ')
+    # num2 = input('Enter number 2: ')
+    # operator = input('Enter operation (+, *, /, -): ')
     # ex10.calculator(num1,num2,operator)
     
     #Ex11
@@ -56,8 +56,8 @@ def main():
     # ex12.word_histogram(sentence)
     
     #Ex13
-    word_list = input('Enter a list of words: ')
-    ex13.frame_it(word_list)
+    # word_list = input('Enter a list of words: ')
+    # ex13.frame_it(word_list)
     
 if __name__ == '__main__':
     main()
