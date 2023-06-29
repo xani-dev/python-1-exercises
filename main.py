@@ -38,8 +38,8 @@ def main():
     # ex8.f_to_c(22)
     
     #Ex9
-    # sentence = "ThIs is A test"
-    # ex9.vowel_counter(sentence)
+    sentence = "ThIs is A test"
+    ex9.vowel_counter(sentence)
     
     # #Ex10
     # num1 = input('Enter number 1: ')
